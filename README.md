@@ -68,7 +68,6 @@ The build artifacts will be stored in the `build` directory.
 
 ## Project Structure
 
-
 ```
 react-mini-projects-template/
 │
